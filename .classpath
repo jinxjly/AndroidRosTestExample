@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/actionlib_msgs-1.10.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/apache_xmlrpc_client-0.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/apache_xmlrpc_common-0.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/apache_xmlrpc_server-0.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/com.springsource.org.apache.commons.codec-1.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/com.springsource.org.apache.commons.io-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/com.springsource.org.apache.commons.net-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/commons-pool-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/dnsjava-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/geometry_msgs-1.10.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/gradle_plugins-0.1.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/guava-12.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/jsr305-1.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/junit-3.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/message_generation-0.1.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/nav_msgs-1.10.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/netty-3.5.4.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/rosgraph_msgs-1.9.53.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/rosjava-0.1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/sensor_msgs-1.10.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/std_msgs-0.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/tf2_msgs-0.4.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/JinnyJoo/projects/r1d1/lib/jar/ros-hydro/ws-commons-util-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
