@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/editText1"
         android:layout_centerVertical="true"
-        android:text="Heard from ROS.."
+        android:text="Waiting to hear from ROS.."
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>
